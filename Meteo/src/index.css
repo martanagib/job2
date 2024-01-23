@@ -1,0 +1,72 @@
+body {
+  background-image: url(assets/images/img3.jpg);
+}
+
+.carine {
+  margin: 5%;
+  background-color:rgb(251, 231, 251);
+   color: rgb(0, 102, 176);
+   border: 1px solid rgb(0, 102, 176);
+   border-radius: 40px;
+   font-weight: 700;
+   font-size: larger;
+
+}
+
+button {
+  color: rgb(0, 102, 176);
+  background-color:rgb(251, 231, 251);
+  border: 1px solid rgb(0, 102, 176);
+  border-radius: 40px;
+  width: 20%;
+  margin : 15px;
+  height: 40px;
+  text-align: center;
+  font-weight: 600;
+  font-size: larger;
+}
+
+input {
+  background-color:rgb(251, 231, 251);
+  color: rgb(0, 102, 176);
+  border: 1px solid rgb(0, 102, 176);
+  width: 50%;
+  height: 40px;
+  border-radius: 40px;
+  margin-left: 20%;
+  font-weight: 600;
+  font-size: larger;
+  
+}
+
+h2{
+  text-align: center;
+  color:rgb(1, 68, 115);
+  font-weight: bolder;
+  font-size: 2rem;
+  background-color: rgb(251, 231, 251);
+  margin-left: 35%;
+  margin-right: 35%;
+  border-radius: 40px;
+  
+}
+
+.cardDiv {
+  justify-content: center;
+  margin-top: -5%;
+}
+
+
+.descrizione{
+  text-align: center;
+  color:rgb(1, 68, 115);
+  background-color: rgb(251, 231, 251);
+  margin-left: 35%;
+  margin-right: 35%;
+  border-radius: 40px;
+  
+}
+
+.centro {
+  text-align: center;
+}
